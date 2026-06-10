@@ -33,10 +33,10 @@ time.sleep(3)
 
 # Preenche as credenciais de acesso e entra no sistema
 pyautogui.press('tab')
-pyautogui.write('pythonautomation@gmail.com')
+pyautogui.write('email')
 
 pyautogui.press('tab')
-pyautogui.write('123456')
+pyautogui.write('sua senha')
 
 pyautogui.press('enter')
 
